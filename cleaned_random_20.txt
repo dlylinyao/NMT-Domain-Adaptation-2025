@@ -1,0 +1,93 @@
+----- Random Sample (Qualitative Check) -----
+[39781] EN: GPS works in very logical steps; each of the orbiting satellites beams a continuous radio signal to Earth, which is received by a GPS receiver in order to derive distances by measuring the travel time of the radio signals.
+      ZH: 13. 全球定位系统工作步骤非常富有逻辑性；每一在轨卫星向地球发射连续无线电信号，该信号被全球定位系统接收机接收，以便通过量测无线电信号的传播时间得出距离。
+[96625] EN: 56. At the invitation of the Chairman, Ms. Mardach Miguel (Women for Peace and Justice for Vieques) took a seat at the petitioners &apos; table.
+      ZH: 56. 在主席的邀请下，Mardach Miguel女士（妇女促进别克斯和平与正义）在请愿者桌前就座。
+[52380] EN: Annex. Resource mobilization and allocation target table for Africa
+      ZH: 附件. 非洲资源调动和分配目标表(1997-2001年) 18
+[195687] EN: 9. Some members asked whether the Committee would have data for 2002 when it considered the next scale in 2003.
+      ZH: 9． 一些成员问委员会2003年审议下一个分摊比额表时是否会有2002年的数据。
+[190051] EN: F. Adult education and literacy 187 - 188 43
+      ZH: F. 成人教育和扫盲 187 - 188 49
+[154349] EN: However, certain conduct, characterized by some as religious, is not in fact valid in human or in moral terms.
+      ZH: 然而，由部分人称为宗教性的某些行为，实际上用人的标准或道德标准衡量是不能成立的。
+[246286] EN: 185. In the case of Judge Teranishi, the Special Rapporteur considers that the course of action taken against him may have been justified on the facts.
+      ZH: 185. 关于Teranishi法官一案，特别报告员认为，根据事实来看，对他采取的惩诫行动可能是有道理的。
+[277297] EN: With the year 2000 now only 27 months away, we are still far from that goal.
+      ZH: 现在距离2000年只剩下27个月了,但是我们距离这一目标还很远。
+[456262] EN: Article 2, paragraph 2: The role of the tribunal, after its formation, in determining ( &quot; tahdid &quot; ) the subject matter of the dispute requires interpretation.
+      ZH: 第2条第2款：对仲裁法庭组成之后在确定( &quot; tahdid &quot; )争端主题事项方面的作用需要作出解释。
+[8922] EN: Charged to wrong object code.
+      ZH: 记入错误的支出用途代号。
+[432849] EN: Under START II, deployed strategic nuclear warheads will be reduced by two thirds to 3,000-3,500.
+      ZH: 根据第二阶段裁武条约，已部署的战略核弹头将裁减2/3，减至3 000至3 500枚。
+[207838] EN: 37. Mr. Al-Malki (Qatar) said that women elected to parliament would have exactly the same political rights as men.
+      ZH: 37. Al-Malki先生(卡塔尔)说,当选为议员的妇女具有同男人完全一样的政治权利。
+[349241] EN: Members: Cuba, India, Portugal (on behalf of the European Union; Bulgaria, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Romania, Slovakia and Slovenia aligned themselves with the statement)
+      ZH: 成员：古巴、印度、葡萄牙(代表欧洲联盟；保加利亚、捷克共和国、爱沙尼亚、匈牙利、拉脱维亚、立陶宛、马耳他、波兰、罗马尼亚、斯洛伐克和斯洛文尼亚表示支持该发言)
+[228217] EN: Mr. Stephanopoulos stated that the United States military strike against Al-Shifa Pharmaceutical Factory in Khartoum has been part of a Clinton administration &quot; Wag the Dog &quot; scenario.
+      ZH: 斯特凡诺普洛斯先生说,美国对喀土穆Al-Shifa制药厂的军事突击是克林顿政府内部有人 &quot; 摇狗尾巴逢迎 &quot; 情节的一部分。
+[392949] EN: Unfortunately, this has not been the case and we stress the huge danger of that.
+      ZH: 不幸的是，情况并非如此，我们要强调指出这种情况的巨大危险性。
+[324622] EN: 11. On 3 November 1993, the Human Rights Committee decided that the communication was admissible in so far as it may raise issues under articles 6 and 7 of the Covenant.
+      ZH: 11. 1993年11月3日,人权事务委员会裁定鉴于来文可能会在《盟约》第6条和第7条下产生一些问题所以是可以受理的。
+[166912] EN: The General Assembly decides to defer consideration of the item entitled “Joint Inspection Unit” to the main part of its fifty-fourth session.
+      ZH: 大会决定将题为 &quot; 联合检查组 &quot; 的审议推迟到第五十四届会议的主要会期会议。
+[156404] EN: Apportionment: $186,597,000; expenditure: $151,411,500; variance: $35,185,500
+      ZH: 分配数：186 597 000美元；支出：151 411 500美元；差额：35 185 500美元
+[1984] EN: Other claimants seek compensation for the value of vessels or, in the case of one claimant, a yacht damaged by Iraqi forces in Kuwait.
+      ZH: 187. 另一些索赔人要求赔偿船舶的价值，有一个索赔人要求赔偿在科威特被伊拉克部队损坏的一艘游艇。
+[101283] EN: Uzbekistan had a tradition of highly accomplished women, and an impressive heritage of women active in the labour force.
+      ZH: 乌兹别克斯坦妇女在传统上有着非常高的成就，而且引人注目的是，该国妇女在劳动大军中历来很活跃。
+
+======== Analyzing: TED Cleaned (Train) ========
+1. Line Count (Sentence Pairs): 50000
+2. Avg Length (Source EN): 15.77 words, 87.08 chars
+   Avg Length (Target ZH): 2.35 words, 35.95 chars
+3. Vocabulary Size (Unique Tokens): Source=65426, Target=109915
+4. Avg Length Ratio (Src/Tgt Char Ratio): 2.44
+5. Calculating Character Entropy...
+   Source Entropy: 4.5101
+   Target Entropy: 8.8156
+
+----- Random Sample (Qualitative Check) -----
+[25832] EN: Thank you, and God bless all of you.
+      ZH: 谢谢各位，愿上帝赐福大家。
+[21959] EN: And they're out there!
+      ZH: 而这些英雄就在那里！
+[27911] EN: But apart from that, everything else goes through contractions of muscles.
+      ZH: 不过除了那个以外 所有事情都是由肌肉的收缩来办到的
+[1060] EN: They are new but trying to look old.
+      ZH: 他们都是新的,但试图显得旧些.
+[14193] EN: Nadia Al-Sakkaf: See Yemen through my eyes
+      ZH: Nadia Al-Sakkaf ：我看也门
+[35365] EN: I lived the high-life.
+      ZH: 我过着高品质的生活。
+[29201] EN: They go to the clinics, because they want to cure their immediate symptoms, and they will find somebody to talk to and discuss these issues and talk about what is burdening them and find solutions, develop their resources, learn tools to solve their family conflicts and gain some confidence in the future.
+      ZH: 病人会去到诊所里， 因为他们想治愈那些短期的症状， 在那里他们会发现有人可以交流 讨论他们的病情 讨论让他们感到压迫的因素是什么 然后寻找治疗的办法，发掘他们自身潜藏的资源， 学习解决家庭冲突的办法 建立对未来生活的信心。
+[36814] EN: Remember, we've only been an advanced civilization -- an industrial civilization, if you would -- for 200 years.
+      ZH: 请记住，我们只不过是拥有进化的文明—— 以及工业文明的物种，如果你算时间那也只有200年。
+[22473] EN: Now, the term "information society," "information economy," for a very long time has been used as the thing that comes after the industrial revolution. But in fact, for purposes of understanding what's happening today, that's wrong. Because for 150 years, we've had an information economy.
+      ZH: 虽然"信息社会,信息经济"这样的字眼一直都被用来形容工业革命之后涌现出的事物 虽然"信息社会,信息经济"这样的字眼一直都被用来形容工业革命之后涌现出的事物 但事实上，为更好地理解当前的情况，这种提法是不对的 因为在过去的150年间，我们一直在信息经济之中，只不过这种信息经济是工业化的
+[42059] EN: And by the time the movie comes out in May, this will be updated to 2.0 and we will have click-through purchases of offsets.
+      ZH: 等五月份电影出来的时候,这个版本也会升级到2.0. 更新中包括能够购买碳排放抵消的功能
+[39316] EN: I, as a cyborg anthropologist, have suddenly said, "Oh, wow. Now suddenly we're a new form of Homo sapiens, and look at these fascinating cultures, and look at these curious rituals that everybody's doing around this technology.
+      ZH: 我作为一个半机器人的人类学家， 突然说： “噢， 我们突然就成了一种新新人类。 过来看看这些魅力十足的文化。 过来看看这令人好奇的仪式 每个人都环绕着技术行事。
+[5919] EN: And he says, "You know you've achieved perfection in design, not when you have nothing more to add, but when you have nothing more to take away."
+      ZH: 他说道：“你知道你的设计达到完美 不是因为你没有什么可以加上去， 而是当你当你不能再去除些什么的时候。”
+[34062] EN: And then I measure its altitude.
+      ZH: 好，让我们记录下它的高度。
+[10707] EN: Tom Green: That's a 4chan thing.
+      ZH: Tom Green：这是个4chan特色。
+[9099] EN: And the first person who gets happy when you do that, you don't do anything for anybody else, but you get happier, you yourself, because your whole perception broadens and you suddenly see the whole world and all of the people in it.
+      ZH: 当你那样想的时候，第一个快乐起来的人是你， 你还没有为其他人做任何事，你就会变得更快乐，你自己， 因为你的整个观念开阔了， 你突然看到整个世界和它其中所有的人。
+[49355] EN: But what else could I offer her?
+      ZH: 但我又能为她做些什么？
+[43346] EN: You saw it with the recent economic crash, where bad things happen in the economy -- bad for everybody, for much of the world.
+      ZH: 你可以看到在近期的金融危机， 经济发生了很多不好的事， 对每个人都不好，对世界都不好。
+[37379] EN: And I only stumbled on this because I was living in Malé, in Maldives for long enough for it to percolate into my brain that something rather special was going on.
+      ZH: 我是因为住在马累才偶然发现了这点的， 在马尔代夫住了很长时间之后， 我才慢慢地意识到 有一些很特别的事情正在发生。
+[42337] EN: And by the time you get to the middle, you've got hundreds of people who have contributed only one photo each.
+      ZH: 当看到这个尾部线条中部时， 你会发现有数百个 仅仅提供了一张照片的摄影者。
+[44197] EN: The loving soul of the universe.
+      ZH: 比如是宇宙中关爱的灵魂，

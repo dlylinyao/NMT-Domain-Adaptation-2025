@@ -1,0 +1,126 @@
+[linyaodu@puhti-login14 final_project]$ python3 calc_raw_stats.py
+Analyzing UNPC Raw (EN) (UNPC.en-zh.en) ...
+  Scanned 500000 lines...
+  Scanned 1000000 lines...
+  Scanned 1500000 lines...
+  Scanned 2000000 lines...
+  Scanned 2500000 lines...
+UNPC Raw (EN) Statistics:
+   Line Count: 3000000
+   Avg Length: 24.86 words / 161.22 chars
+   Vocab Size: 762288
+   Entropy:    4.5743
+------------------------------
+Analyzing UNPC Raw (ZH) (UNPC.en-zh.zh) ...
+  Scanned 500000 lines...
+  Scanned 1000000 lines...
+  Scanned 1500000 lines...
+  Scanned 2000000 lines...
+  Scanned 2500000 lines...
+UNPC Raw (ZH) Statistics:
+   Line Count: 3000000
+   Avg Length: 46.08 words / 46.08 chars
+   Vocab Size: 9426
+   Entropy:    9.6714
+------------------------------
+Analyzing TED Raw (EN) (TED2013.en-zh.en) ...
+TED Raw (EN) Statistics:
+   Line Count: 154579
+   Avg Length: 16.74 words / 92.02 chars
+   Vocab Size: 112088
+   Entropy:    4.4470
+------------------------------
+Analyzing TED Raw (ZH) (TED2013.en-zh.zh) ...
+TED Raw (ZH) Statistics:
+   Line Count: 154579
+   Avg Length: 30.94 words / 30.94 chars
+   Vocab Size: 4724
+   Entropy:    8.8723
+------------------------------
+[linyaodu@puhti-login14 final_project]$ echo "====== UNPC RANDOM RAW SAMPLE ======"
+====== UNPC RANDOM RAW SAMPLE ======
+[linyaodu@puhti-login14 final_project]$ paste UNPC.en-zh.en UNPC.en-zh.zh | shuf -n 20
+Taking advantage of technological innovation requires capacity to select technologies that help developing countries the most to build their capabilities to meet their needs.       
+利用技术创新，必须有能力选择最能帮助发展中国家进行能力建设、以满足其需求的技术。
+(b) Nuclear-, ballistic missile- or other weapons of mass destruction-related items, as determined by the Security Council or the Committee? 
+(b) 安全理事会或委员会认定的核、弹道导弹或其他大规模毁灭性武器相关物项？
+The effectiveness of the non-compliance regime would certainly be strengthened by new instruments and measures making possible a more effective response to such cases, but it should be recalled that violations of the obligations in question had been rare over the Treaty &apos; s 33 years of existence and that, in any event, the 1995 and 2000 review conferences had reiterated the role of IAEA in verifying compliance.    
+新的文书和措施无疑会使遵约制度的效力得到加强，可以对这类情况更加有效地作出回应，但应该回顾，违反有关义务的情33年的过程里很少发生，无论如何，1995年和2000年审议大会都重申原子能机构在核查遵守情况方面的作用。
+Other imprest accounts were also not reconciled regularly during the biennium.  
+其他定额备用金账户在两年期内也没有定期调节对账。
+Rather, we should continue to unite to help all those around the world who are in distress.     
+相反，我们应当继续联合一致，帮助全世
+Section III. UNCTAD &apos; s role and potential 5       
+第三节. 贸发会议的作用和潜力. 5
+Spain   
+西班牙
+326. Persons with disabilities should be granted equal opportunities to participate in mainstream education, to seek productive and gainful employment in open labour markets and to have access to appropriate social safety nets in terms of income maintenance and services.   
+326. 应该给予残疾人平等机会，让他们参加主流教育，在开放的劳工市场上获得生产性和有收益的就业机会，在维持收入和取得服务方面有机会利用适当的社会安全网。
+Target 2008-2009: 100 per cent  
+2008-2009年目标：100%
+Sector  
+部门
+The General Assembly has thus concluded this stage of its consideration of agenda item 53.      
+大会就此结束现阶段对议程项目53的审议
+We would also like to express our appreciation for his leadership in this challenging year for the Agency, a year of course in which it was Australia &apos; s honour to chair the Board of Governors.       
+我们还要感谢他在对原子能机构富有挑战性的一年中的领导，在这一
+The system increases the risk of nutritional deficiency, given the predominant role played by women in food crop production, and it also means that women are usually unable to improve the land in order to make it more productive, thereby earning more income and joining the cash economy.   
+这一制度加剧粮食短缺的危险，因为妇女参加粮食种植的人很多，它还降低了妇女改良土壤以增加收益，因而更好地养家糊
+Potentials, good practice examples and remaining challenges were also identified.       
+此外还确定了各种潜力、良好做法范例以及尚余挑
+The Executive Director thanked China and all Member States for their contributions.     
+81. 执行主任感谢中国和所有成员国的捐助。
+2. The Committee welcomes the combined third, fourth and fifth periodic reports of El Salvador and the written replies to its list of issues (E/C.12/SLV/Q/3-5/Add.1), although it regrets their late submission and the failure to reply to some of the questions.  
+2. 委员会欢迎萨尔瓦多的第三、四和五次合并定期报告及对问题的书面答复(E/C.12/SLV/Q/3-5/Add.1)，然而，委员会对报告与答复的迟交，以及未答复某
+45. Environmental costs arise in a number of ways, and the costs incurred will often improve the operational efficiency of the enterprise, as well as its environmental efficiency.  
+45. 环境成本的产生有几种方式，造成的成本经常会改进企业的经营效率以及其环境效率。
+&quot; 9. Mr. DE BRESSON (France), introducing his delegation &apos; s amendment to paragraph 1 (A/CONF.39/C.1/L.342), said that a study of Part V showed that the International Law Commission had drawn a distinction between cases where the validity of a treaty might be contested in accordance with the provisions of articles 43 to 47, and those, covered by articles 48 to 50 and 61, where a treaty was void ab initio.     
+&quot; 9. DE BRESSON先生（法国）在介绍法国代表团对第一款提出的修正案时说，对第五编进行的研究表明，对于可按第43至47条规定对条约效力提出质疑的情况和第48至50条及第61条所述的条约从一开始就无效的情况，国际法委员会已加以区分。
+Without gender equity, they have little hope of being fully realized.   
+没有性别平等，充分实现这些目标的希望渺茫。
+Participation of intergovernmental organizations in the work of the eighteenth session of the Commission        
+政府间组织参加可持续
+[linyaodu@puhti-login14 final_project]$ echo "====== TED RAW SAMPLE ======"
+====== TED RAW SAMPLE ======
+[linyaodu@puhti-login14 final_project]$ 
+[linyaodu@puhti-login14 final_project]$ paste TED2013.en-zh.en TED2013.en-zh.zh | shuf -n 20
+Now -- -- So we now know that we are able to transfer enormous amount of currents inside superconductors, so we can use them to produce strong magnetic fields, such as needed in MRI machines, particle accelerators and so on.     
+现在--（笑声）-- 好的，现在我们都了解了 我们能够传输超导体内部的大量电流， 那么我们能够利用它们制造强大的磁场， 诸如在核磁共振成像仪，粒子加速器等机器中所需要的。
+And that energy is what powers fusion.  
+而这个能量就是核聚变能源的根本所在。
+But the question that lingered in my mind was, what causes people to destroy fire trucks headed to their own homes?     
+但回旋在我脑 人们为什么要攻击消防车 为什么要攻击去帮他们扑灭火焰的消防车？
+And hopefully in the future we'll be able to gain some deeper understanding of how they communicate.    
+希望在不远的将来，我们能够更 到底是如何沟通的。
+I don't think they lasted very long.    
+我认为这些都没有维持很长时间。
+Mikey Brett, Craig, Leo, Zem Joaquin and Basil and me.  
+（掌声） 迈克 伯瑞特，克莱格，里奥， 泽姆 乔安坤， 贝索和我自己
+And this is a little clip from an elementary school, which is very common in England.   
+这是在小学里录的一段录像 在英国是很普遍的
+Medullary tissue is the calcium build-up, the calcium storage basically, when an animal is pregnant, when a bird is pregnant.   
+髓状 也就是钙库 动物怀孕时会产生 鸟类怀孕时也会产生
+In addition to which there's an enormous amount of back and forth, mentoring of one student by another, of all the students by the doctors, and the result is a generation -- we hope -- of doctors who do have time for the people they treat.      
+另外， 还有很多来回的反复 让学生互相辅导， 让医生指导所有的学生， 这样做的结果是——我们希望——下一代的医生 能为他们治疗的病人付出病人需要的时间。
+But as you can see, the pigeon, or a chicken or anything else, another bird, has kind of a weird-looking hand, because the hand is a wing.   
+但是你可以看到，鸽子 或者鸡，或者其它任何一个鸟类 都有这样怪怪的手掌 因为手变成了翅膀
+And it's a story in which humans play an astonishing and creative role. 
+同时这也是有关人类 发挥惊人能力和创造性作用的故事。
+I'm going to move to some pictures of China.    
+接下来让我们看一些在中国拍摄的照片
+In the research phase of the project at Interval, we partnered with a company called Cheskin Research, and these people -- Davis Masten and Christopher Ireland -- changed my mind entirely about what market research was and what it could be.     
+关于在Interval公司的 我们和另一家叫做Cheskin Research的公司合作， 包括他们的同事Davis Masten和Christopher Ireland， 彻底改变了我对于市场调研是什么 和它能
+Now, the next one, "The President of The Royal Society Has Been Vouchsafed a Strong Inner Conviction" -- -- "... That an Asteroid Killed the Dinosaurs."     
+下一份，“皇家学会的主席 被赐予了一个坚强的信念” -- （笑）-- 恐龙是因为小行星撞击地球而灭绝的。”
+And then UNAMA became involved in Afghanistan.  
+然后联合国阿富汗援助团也在阿富汗参加了这个活动
+I use a lot of metal in my work, and I have a hard time connecting with the craft.      
+我在工作中用到大量金属 连接工艺品让我大费苦心
+One of my heroes is songwriter, Ally Willis, who just wrote "The Color Purple" and has been an R and -- rhythm and blues writer, and this is what she said about where songwriting's going.  
+我心中其中一位英雄人物是歌曲创作者 Ally Willis 她刚刚写了一首叫“the color purple"的歌曲 她曾经是R&B的作曲者，这也是她说 关于作曲应往哪里去
+And it will be really boring. It will read like this.   
+但是这东西很枯燥，就是这个样子
+So this mutual inspiration promotes collaboration, initiative and creativity.   
+因此这样互相鼓舞 可以促进合作 主动性和创造性
+And it started to take off. And you can see that the units started to trend up, the hidden inflection point -- it was taking off.    
+呈上升趋势，这是一个潜在的转折点，从此迅速上升。

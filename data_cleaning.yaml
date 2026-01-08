@@ -1,0 +1,73 @@
+
+common:
+  output_directory: /scratch/project_2011718/linyao_du/final_project/processed
+  
+steps:
+
+
+  - type: head
+    parameters:
+      inputs: 
+        - /scratch/project_2011718/linyao_du/final_project/UNPC.en-zh.en
+        - /scratch/project_2011718/linyao_du/final_project/UNPC.en-zh.zh
+      outputs: [unpc_raw_3m.en, unpc_raw_3m.zh]
+      n: 3000000
+
+  - type: preprocess
+    parameters:
+      inputs: [unpc_raw_3m.en, unpc_raw_3m.zh]
+      outputs: [unpc_pre.en, unpc_pre.zh]
+      preprocessors:
+        - WhitespaceNormalizer: {}
+
+  - type: filter
+    parameters:
+      inputs: [unpc_pre.en, unpc_pre.zh]
+      outputs: [unpc_filtered_tmp.en, unpc_filtered_tmp.zh]
+      filters:
+        - LengthFilter:
+            min_length: 10
+            max_length: 1000
+            unit: char
+        - LengthRatioFilter:
+            threshold: 3
+            unit: char
+        - LanguageIDFilter:
+            languages: [en, zh]
+            id_method: langid
+            threshold: 0.8
+        - HtmlTagFilter: {}
+
+  - type: remove_duplicates
+    parameters:
+      inputs: [unpc_filtered_tmp.en, unpc_filtered_tmp.zh]
+      outputs: [unpc_clean.en, unpc_clean.zh]
+
+  - type: subset
+    parameters:
+      inputs: [unpc_clean.en, unpc_clean.zh]
+      outputs: [unpc_sample.en, unpc_sample.zh]
+      size: 50
+      seed: 2026
+
+
+  - type: filter
+    parameters:
+      inputs: 
+        - /scratch/project_2011718/linyao_du/final_project/TED2013.en-zh.en
+        - /scratch/project_2011718/linyao_du/final_project/TED2013.en-zh.zh
+      outputs: [ted_filtered_tmp.en, ted_filtered_tmp.zh]
+      filters:
+        - LengthFilter:
+            min_length: 10
+            max_length: 1000
+            unit: char
+        - LengthRatioFilter:
+            threshold: 3
+            unit: char
+        - HtmlTagFilter: {}
+
+  - type: remove_duplicates
+    parameters:
+      inputs: [ted_filtered_tmp.en, ted_filtered_tmp.zh]
+      outputs: [ted_clean.en, ted_clean.zh]
